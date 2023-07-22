@@ -1,4 +1,4 @@
-package baitap;
+package JAVA;
 import java.util.*;
 
 public class GiaiPhuongTrinhBacNhat {
